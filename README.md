@@ -2,7 +2,9 @@
 
 ![et Any Github User Info - React](https://i.ibb.co/bmZYsS2/gatanygithubuserinfo.png)
 
-### [Live Site](https://birthdaywisherapp.netlify.app/)
+### [Live Site](https://getanygithubuserinfo.netlify.app/)
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/7fcaa493-a12b-426a-a6bb-1b1f5d8e97d0/deploy-status)](https://app.netlify.com/sites/getanygithubuserinfo/deploys)
 
 # Installation
 
